@@ -19,7 +19,7 @@ The detail of function as follow:
 
 **addr**:0045ca18  
 **function**: FUN_0045c97c   
-**parameter**:systype
+**parameter**:systype,partition
 
 
 # poc
