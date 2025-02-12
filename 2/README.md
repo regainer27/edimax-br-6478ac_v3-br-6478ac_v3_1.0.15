@@ -8,7 +8,7 @@
 The firmware can be downloaded in this website[1] and using FirmAE to simulate the router environment.   
 The result of simulating as follows: 
 ![alt text](image-6.png)
-using ghidra we can konw the relate function name is formDiskFormat
+using ghidra we can konw the relate action name is formDiskFormat
 ![alt text](image-4.png)
 
 
