@@ -10,7 +10,7 @@ a stack overflow vulnerability was found on EDIMAX BR-6478AC V3 via the FUN_0044
 
 **version**:BR-6478AC V3 1.0.15  
 
-The firmware can be downloaded from this website[1] and using FirmAE to simulate the router environment.   
+The firmware can be downloaded from this [website][1] and using FirmAE to simulate the router environment.   
 The command is 
 ```
 sudo ./run.sh -d edimax ../Desktop/FIRWARE/BR-6478AC_v3_1.0.15.bin 
