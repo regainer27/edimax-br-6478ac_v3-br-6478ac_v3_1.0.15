@@ -26,6 +26,7 @@ and the relate web page is as follows and url of page is http://192.168.2.1/wlwp
 
 ## analyze
 Using ghidra we can know that the post parameter "peerPin" will be sprintf as the second input parameter and result the stack overflow
+![](img/code_line.png)
 ![alt text](img/code_line2.png)
 The details of the function as follows:
 
