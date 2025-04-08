@@ -1,4 +1,4 @@
-# EDIMAX RCE
+# EDIMAX Stack Overflow
 **description**: 
 a stack overflow vulnerability was found on EDIMAX BR-6478AC V3 via the FUN_0044a70c function and peerPin in /bin/boa
 
