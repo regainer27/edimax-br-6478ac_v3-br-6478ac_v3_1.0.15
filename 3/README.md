@@ -1,5 +1,5 @@
 # EDIMAX RCE
-**description**: a remote-command-execution vulnerability was found on EDIMAX BR-6478AC V3 via the FUN_00416e24 function and systype in /bin/boa
+**description**: a remote-command-execution vulnerability was found on EDIMAX BR-6478AC V3 via the FUN_00416e24 function and fota_url in /bin/boa
 ## Firmware
 **brand**:edimax   
 
